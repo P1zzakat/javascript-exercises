@@ -1,0 +1,2 @@
+irstNumber.isInteger) ||
+    // !(lastNumber.isInteger))
